@@ -7,8 +7,8 @@ categories = ["external-ffi-bindings", "parsing"]
 readme = "README.md"
 authors = ["Thomas Farr <xtansia@xtansia.com>"]
 license = "MPL-2.0"
-homepage = "https://github.com/Xtansia/rust-anitomy"
-repository = "https://github.com/Xtansia/rust-anitomy"
+homepage = "https://github.com/Xtansia/rust-anitomy-sys"
+repository = "https://github.com/Xtansia/rust-anitomy-sys"
 
 build = "build.rs"
 
