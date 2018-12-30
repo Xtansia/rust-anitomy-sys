@@ -1,0 +1,4 @@
+[submodule "anitomy-c"]
+	path = anitomy-c
+	url = https://github.com/Xtansia/anitomy-c
+	branch = master
